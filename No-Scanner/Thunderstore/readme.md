@@ -1,1 +1,0 @@
-A simple mod that disables the ability to use your scanner.
