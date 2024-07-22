@@ -1,6 +1,6 @@
 {
     "name": "NoScanner",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/JustArion/LethalCompanyMods",
     "description": "A mod that disables the scanning tool",
     "dependencies": [
